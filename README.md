@@ -1,4 +1,5 @@
 # Lightstrip
+See it in action: https://youtu.be/WPa4D59CkcY
 
 ## MCU
 MCU just takes serial data to display on the LED strip.
